@@ -1,5 +1,5 @@
 # diveapi
-Public API service for e-shape DIVE application
+Public API service for the  e-shape DIVE application.
 
 To install the DIVE API service 
 ```
