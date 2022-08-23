@@ -1,0 +1,23 @@
+2022-08-23 13:05:59,251 CRIT Set uid to user 0
+2022-08-23 13:05:59,251 INFO supervisord started with pid 1
+2022-08-23 13:06:00,256 INFO spawned: 'dive' with pid 9
+2022-08-23 13:06:05,631 INFO success: dive entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2022-08-23 13:10:46,618 WARN received SIGTERM indicating exit request
+2022-08-23 13:10:46,618 INFO waiting for dive to die
+2022-08-23 13:10:46,735 INFO stopped: dive (exit status 0)
+2022-08-23 13:11:23,977 CRIT Set uid to user 0
+2022-08-23 13:11:23,978 INFO supervisord started with pid 1
+2022-08-23 13:11:24,981 INFO spawned: 'dive' with pid 9
+2022-08-23 13:11:30,333 INFO success: dive entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2022-08-23 13:11:33,122 WARN received SIGTERM indicating exit request
+2022-08-23 13:11:33,122 INFO waiting for dive to die
+2022-08-23 13:11:33,234 INFO stopped: dive (exit status 0)
+2022-08-23 13:12:11,733 CRIT Set uid to user 0
+2022-08-23 13:12:11,734 INFO supervisord started with pid 1
+2022-08-23 13:12:12,735 INFO spawned: 'dive' with pid 9
+2022-08-23 13:12:13,155 INFO exited: dive (exit status 1; not expected)
+2022-08-23 13:12:13,172 INFO reaped unknown pid 15
+2022-08-23 13:12:13,192 INFO reaped unknown pid 16
+2022-08-23 13:12:14,193 INFO spawned: 'dive' with pid 20
+2022-08-23 13:12:14,616 INFO exited: dive (exit status 1; not expected)
+2022-08-23 13:12:15,618 INFO gave up: dive entered FATAL state, too many start retries too quickly
